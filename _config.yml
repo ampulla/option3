@@ -3,6 +3,9 @@
 # Name of website
 title: My website
 
+#theme
+remote_theme: daattali/beautiful-jekyll
+
 # Short description of your site
 description: A virtual proof that I'm awesome
 
